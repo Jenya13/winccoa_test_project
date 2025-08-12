@@ -1,0 +1,18 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.20"
+proj_path = "C:/Wincc_oa_projects/git_test1"
+proj_version = "3.20"
+useNGA = 1
+useSQLite = 1
+langs = "en_US.utf8"
+langs = "he_IL.utf8"
+
+userName="root"
+password=""
+
+
+[ui]
+versionControl = "git"
+versionControlDiff = "C:/Program Files/Beyond Compare 5/BCompare.exe"
+defaultFont = "Noto Sans"
+
