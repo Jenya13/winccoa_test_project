@@ -15,4 +15,5 @@ password=""
 versionControl = "git"
 versionControlDiff = "C:/Program Files/Beyond Compare 5/BCompare.exe"
 defaultFont = "Noto Sans"
+defaultPanelFormat = "XML"
 
