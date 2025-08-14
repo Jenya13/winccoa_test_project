@@ -4,9 +4,9 @@
   <prop name="Name">
    <prop name="en_US.utf8"></prop>
   </prop>
-  <prop name="Size">400 400</prop>
-  <prop name="BackColor">_3DFace</prop>
-  <prop name="RefPoint">-1 -1</prop>
+  <prop name="Size">1043 770</prop>
+  <prop name="BackColor">STD_local</prop>
+  <prop name="RefPoint">230.5 242.5</prop>
   <prop name="InitAndTermRef">True</prop>
   <prop name="SendClick">False</prop>
   <prop name="RefFileName"></prop>
